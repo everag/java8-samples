@@ -10,6 +10,7 @@
 - New Date/Time API
 - Lambdas
 - Streams API
+- Optional<?>
 - Nashorn
 
 ## Reference links
